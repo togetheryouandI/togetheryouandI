@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  FOLLOW MAIN GITHUB [dr-vanta](https://github.com/dr-vanta/)
+  FOLLOW MAIN GITHUB [dr-vanta](https://github.com/dr-vanta/)<br>[Callout Document](https://docs.google.com/document/d/1nzZmpnHggR6aLrGhpoJmbjFTbwGqAC62DsZJq5kFyrU/edit?usp=sharing)
   
 </div>
 
